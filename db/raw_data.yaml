@@ -1,0 +1,15 @@
+---
+phone:
+  p1: "'iphone', '10_pro', 2300, 2"
+  p2: "'iphone', '12_pro', 4500, 4"
+  p3: "'samsung', 'Galaxy_Note_20', 4800, 3"
+  p4: "'xiaomi', 'Redmi_Note_9S', 4500, 4"
+  p5: "'one_pulse', '7', 2450, 1"
+  p6: "'samsung', 'Galaxy_10', 3100, 3"
+  p7: "'xiaomi', 'Mi_10T_Pro', 2800, 4"
+sale:
+  s1: "'iphone', 'i10', 2300 , 1, '15-11-2020'"
+  s2: "'samsung', 'Galaxy_10', 3100 , 2, '13-11-2020'"
+  s3: "'one_pulse', '7', 2450, 1, '12-11-2020'"
+  s4: "'one_pulse', '6', 1500, 1, '13-11-2020'"
+  s5: "'xiaomi', 'Mi_10T_Pro', 2800, 1, '14-11-2020'"
